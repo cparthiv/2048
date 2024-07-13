@@ -1,4 +1,8 @@
 # 2048
+
+A fork of another repository for me to see how scores change with the moving depth. Results will be posted soon.
+
+
 Run `python play.py` to play 2048
 
 ## Controls
